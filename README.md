@@ -1,4 +1,4 @@
-¡Hola! Soy Marcos 👋
+¡Hola! Soy Marco 👋
 Estudiante de Ingeniería Informática | Automatización y Datos
 
 Vivo en Santiago de Chile y me especializo en crear **soluciones que ahorran tiempo**. Transformo tareas manuales y aburridas en scripts rápidos y eficientes.
