@@ -17,9 +17,9 @@ Vivo en Santiago de Chile y me especializo en crear **soluciones que ahorran tie
 ---
 
 🛠 **Mis Habilidades Técnicas:**
- **Lenguajes:** Python (Avanzado), SQL.
- **Herramientas:** VS Code, Git/GitHub, Excel Automation.
- **Idiomas:** Español (Nativo), Inglés (Técnico).
+* **Lenguajes:** Python (Avanzado), SQL.
+* **Herramientas:** VS Code, Git/GitHub, Excel Automation.
+* **Idiomas:** Español (Nativo), Inglés (Técnico).
 
 📫 ¿Tienes una tarea repetitiva? Hablemos:
 📧 [marcohuenunir@gmail.com](mailto:marcohuenunir@gmail.com)
