@@ -1,16 +1,21 @@
-## Hi there 👋
+¡Hola! Soy Marcos 👋
+Estudiante de Ingeniería Informática | Automatización y Datos
 
-<!--
-**MarcsEA/MarcsEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vivo en Santiago de Chile y me especializo en crear **soluciones que ahorran tiempo**. Transformo tareas manuales y aburridas en scripts rápidos y eficientes.
 
-Here are some ideas to get you started:
+🔭 **Proyectos Destacados:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛒 [Bot de Precios E-Commerce](https://github.com/MarcsEA/bot-extractor-precios-ecommerce)
+* **¿Qué hace?** Monitorea tiendas online, extrae precios/stock y genera alertas.
+* **Tecnologías:** Python, BeautifulSoup, Pandas.
+* **Valor:** Ahorra 10+ horas semanales de investigación de mercado manual.
+
+---
+
+🛠 **Mis Habilidades Técnicas:**
+ **Lenguajes:** Python (Avanzado), SQL.
+ **Herramientas:** VS Code, Git/GitHub, Excel Automation.
+ **Idiomas:** Español (Nativo), Inglés (Técnico).
+
+📫 ¿Tienes una tarea repetitiva? Hablemos:
+📧 [marcohuenunir@gmail.com](mailto:marcohuenunir@gmail.com)
