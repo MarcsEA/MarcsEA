@@ -10,6 +10,10 @@ Vivo en Santiago de Chile y me especializo en crear **soluciones que ahorran tie
 * **Tecnologías:** Python, BeautifulSoup, Pandas.
 * **Valor:** Ahorra 10+ horas semanales de investigación de mercado manual.
 
+**🔮 [Nexus AI Dashboard](https://github.com/MarcsEA/nexus-ai-dashboard)
+* **¿Qué hace?** Predice ventas futuras usando Inteligencia Artificial y matemáticas.
+* **Tecnologías:** Python, Streamlit, Machine Learning (Regresión).
+* **Valor:** Permite a los gerentes anticipar tendencias y ajustar estrategias antes de tiempo.
 ---
 
 🛠 **Mis Habilidades Técnicas:**
